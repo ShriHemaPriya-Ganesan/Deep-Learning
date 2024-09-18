@@ -7,7 +7,7 @@ The solution targets farmers, distributors, and retailers in the agricultural fi
 **1.	Data Collection:**
 I collected data by recording videos of various fruits and vegetables. Then used the video to image converter to retrieve the images for training and testing datasets. Also, downloaded images from google for the prediction process in the real time.
 **2.	Pre-trained Model Selection:**
-In the process of developing this project, the selection of a pre-trained model plays an important role in ensuring accurate and efficient predictions. The target is to choose a pre-trained CNN model that excels in image recognition and based on their usage in the similar tasks. 
+In the process of developing this project, the selection of a pre-trained model plays an important role in ensuring accurate and efficient predictions. The target is to choose a pre-trained CNN model that excels in image recognition. I chose Resnet 50 model based on their usage in the similar tasks.
 **3.	Downstream Processing:**
 •	Currently, my intention is to incorporate the model into a web application that can be easily integrated as a component of the precision agricultural system.
 •	We can further embed the automated sorting system into harvesting machinery, such as combine harvesters or robotic harvesters, allowing for on-the-go sorting during the harvesting process for the future use.
